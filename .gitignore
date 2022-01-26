@@ -1,0 +1,10 @@
+# file
+db.sqlite3
+.flake8
+
+
+# # folder
+.vscode
+mysite/__pycache__
+blog/migrations
+blog/__pycache__
